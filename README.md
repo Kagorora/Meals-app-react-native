@@ -4,12 +4,6 @@
 
 Meals app is an app that teaches people how to cook
 
-## Screenshot
-
-## Home
-
-
-
 ## Technologies used :gear:
 
 - React Native
