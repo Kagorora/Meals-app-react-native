@@ -4,7 +4,14 @@
 
 Meals app is an app that teaches people how to cook
 
+## Screenshot
+
+## Home
+
+
+
 ## Technologies used :gear:
+
 - React Native
 
 ##### A. Clone the project
@@ -15,10 +22,6 @@ Meals app is an app that teaches people how to cook
 
 1. Run `yarn install` to install all dependencies.
 2. Run `yarn start` to run the app in development environment. 
-
-### Deployment 🚀
-
-[Heroku](https://knights-bn-frontend.herokuapp.com/)
 
 # Author
 
